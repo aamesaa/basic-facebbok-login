@@ -1,0 +1,222 @@
+#bar
+{
+    position:static;
+    margin-top:5px;
+    background-color:#3b5998;
+    height:70px;
+    color:reds;
+    margin:0px;
+    padding:15px; 
+    display:block;
+}
+	
+.btnLogIn
+{
+    border:1px solid #1D3871; 
+    width:70px; 
+    background-color:#4F57A2;
+    font-size:14px; 
+    line-height:20px; 
+    color:white;
+    margin-left:1px;
+}
+#atas
+{
+	line-height:10px;
+	color:white;
+	font-size:13px;
+}
+.logo
+{
+	float:left;
+	position:relative;
+    left:100px;
+	height:auto;
+	width:auto
+	
+}
+
+.urls
+{
+color:white;}
+	
+a
+{
+        text-decoration:none;
+}
+.urls:hover
+{
+color:white;
+text-decoration:underline}
+
+a.urll:hover
+{
+    text-decoration:underline;
+    }
+.right_top
+{
+	position:absolute;
+	top:13px;
+	right:125px;}
+
+
+body
+{font-family:Helvetica;
+margin-top: -10px;
+margin-left: -1px;
+margin-right: 0px;}
+
+#urlforce
+{text-decoration:none;}
+
+html{
+	
+	border:0;
+	margin:0;
+	
+	}
+#konten-left
+{
+	position:static;
+	top:50px;
+	width:650px;
+	
+	padding-left:75px;
+	float: left;
+    margin-left:50px;
+    height:400px;
+    padding-top: 50px;
+
+}
+
+#konten-right
+{
+	padding-top:35px;
+	position: absolute;
+	padding-left: 50px;
+    top:90px;
+	left:740px;
+	
+	width:420px;
+    height:500px;
+	
+}
+
+
+br.dikit
+{
+        line-height: 7px;
+}
+p
+{
+    line-height: 1px;
+}
+
+.normal-line
+{
+    line-height: 30px;
+    
+    
+}
+.round
+{ 
+
+      border-radius: 5px; 
+      border:thin solid slategrey ;
+      padding-left: 5px;
+      line-height: 36px;
+      font-size: 16px;
+      margin-bottom:12px;
+}
+
+
+.kotak
+{
+    padding: 3px;
+    line-height: 38px;
+     font-size: 16px;
+}
+
+#konten
+{
+   
+    background-color: #edf0f5;
+    background-size:cover;
+    height:630px;
+    width:1200;
+    position: center;
+    
+    
+}
+
+
+.rbg
+{
+    font-size: 16px;
+}
+#bdy
+{
+    float: right;
+    position: relative;
+    right:75px;
+    width: 115px;
+    line-height: 11px;
+  
+}
+#gen
+{
+    margin-top: 15px;
+    
+}
+#ket
+{
+    margin-top:15px;
+    font-size: 11px;
+    width: 300px;
+}
+
+.btnSignUp
+{
+    border:1px solid #3B6E22; 
+   margin-top: 15px;
+   background-color:#578843;
+   font-size:14px; 
+   line-height:20px; 
+   color:white;
+   border-radius: 5px;
+   font-size: 24px;
+   font-family: Calibri;
+   text-align: center;
+   width:200px;
+   height: 50px;
+    text-shadow: 1px 1px 2px black;
+   
+}
+.btnSignUp:hover
+{
+     background-color:#5D9447;
+     
+}
+#maps
+{
+    position: absolute;
+    top:275px;
+    width: 45%;
+}
+#footer
+{
+	position: absolute;
+	margin-left: 100px;
+    margin-top:25px;
+	align-content: center;
+	
+    top:715px;
+    width:1108px;
+}
+#bhs
+{
+    font-size: 13px;
+    color: #535998;
+    
+}
+
